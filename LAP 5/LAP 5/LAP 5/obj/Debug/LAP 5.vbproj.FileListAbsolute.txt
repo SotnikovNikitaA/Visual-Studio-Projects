@@ -1,0 +1,13 @@
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\bin\Debug\LAP 5.exe.config
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\bin\Debug\LAP 5.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\bin\Debug\LAP 5.pdb
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\bin\Debug\LAP 5.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP 5.vbprojAssemblyReference.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP_5.MainForm.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP_5.Resources.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP_5.OutputForm.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP 5.vbproj.GenerateResource.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP 5.vbproj.CoreCompileInputs.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP 5.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP 5.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 8\lap 5\LAP 5\LAP 5\obj\Debug\LAP 5.pdb

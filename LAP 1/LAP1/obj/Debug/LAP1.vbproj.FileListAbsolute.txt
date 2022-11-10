@@ -1,0 +1,24 @@
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.exe.config
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.pdb
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.vbprojAssemblyReference.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.Form1.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.Resources.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.vbproj.GenerateResource.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.vbproj.CoreCompileInputs.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.pdb
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.exe.config
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.exe
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.pdb
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\bin\Debug\LAP1.xml
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.vbprojAssemblyReference.cache
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.Form1.resources
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.Resources.resources
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.vbproj.GenerateResource.cache
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.vbproj.CoreCompileInputs.cache
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.exe
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.xml
+C:\Users\Vyxise\Desktop\2\Per;iya 2\VS\WEEK 1\LAP 1\LAP1\LAP1\obj\Debug\LAP1.pdb

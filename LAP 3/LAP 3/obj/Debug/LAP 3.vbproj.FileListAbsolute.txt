@@ -1,0 +1,24 @@
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.exe.config
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.pdb
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.vbprojAssemblyReference.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP_3.Form1.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP_3.Resources.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.GenerateResource.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.CoreCompileInputs.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.pdb
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.exe.config
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.exe
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.pdb
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\bin\Debug\LAP 3.xml
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.vbprojAssemblyReference.cache
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP_3.Form1.resources
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP_3.Resources.resources
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.GenerateResource.cache
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.CoreCompileInputs.cache
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.exe
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.xml
+C:\Users\Vyxise\Desktop\1\Юнивер\Quarter 3\MIS 322\WEEK 4\b\LAP 3\LAP 3\obj\Debug\LAP 3.pdb

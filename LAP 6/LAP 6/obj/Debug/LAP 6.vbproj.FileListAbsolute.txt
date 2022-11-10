@@ -1,0 +1,13 @@
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\bin\Debug\Games.mdb
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\bin\Debug\LAP 6.exe.config
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\bin\Debug\LAP 6.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\bin\Debug\LAP 6.pdb
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\bin\Debug\LAP 6.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP 6.vbprojAssemblyReference.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP_6.Form1.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP_6.Resources.resources
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP 6.vbproj.GenerateResource.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP 6.vbproj.CoreCompileInputs.cache
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP 6.exe
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP 6.xml
+C:\Users\Vyxise\Desktop\Юнивер\Quarter 3\MIS 322\week 10\LAP 6\LAP 6\obj\Debug\LAP 6.pdb
